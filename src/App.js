@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import Film from './Film';
-import FilmList from './FilmList';
+import Film from './Components/Film';
+import FilmList from './Components/FilmList';
 
 function App() {
   return (
